@@ -11,7 +11,7 @@ hero:
       link: /README
     - theme: alt
       text: 核心术语速查
-      link: /02-core-concepts/README
+      link: /02-core-concepts/
 
 features:
   - icon: 👤

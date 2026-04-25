@@ -478,4 +478,4 @@ MOT = Moment of Truth (真实瞬间/关键时刻)
 
 ---
 
-*上一节：[03 - 需求收集与优先级排序](./03-requirement-analysis.md) | 返回：[章节目录](./README.md)*
+*上一节：[03 - 需求收集与优先级排序](./03-requirement-analysis.md) | 返回：[章节目录](./)*

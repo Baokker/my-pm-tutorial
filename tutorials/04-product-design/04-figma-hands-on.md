@@ -901,4 +901,4 @@ Dev Mode 提供的信息：
 
 ---
 
-[<< 上一节：03-交互设计原则](./03-interaction-design.md) | [返回模块概览 >>](./README.md)
+[<< 上一节：03-交互设计原则](./03-interaction-design.md) | [返回模块概览 >>](./)

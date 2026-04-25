@@ -34,22 +34,22 @@
 
 ### 阶段一：建立认知
 
-- [第 1 章 · 认识产品经理](/01-what-is-pm/README) — PM 是什么、做什么、有哪些类型、怎么成长
-- [第 2 章 · 核心概念与术语](/02-core-concepts/README) — GMV、MVP、PMF 等四大类术语词典
+- [第 1 章 · 认识产品经理](/01-what-is-pm/) — PM 是什么、做什么、有哪些类型、怎么成长
+- [第 2 章 · 核心概念与术语](/02-core-concepts/) — GMV、MVP、PMF 等四大类术语词典
 
 ### 阶段二：掌握方法论
 
-- [第 3 章 · 用户研究与需求分析](/03-user-research/README) — 用户画像、调研、需求优先级、旅程地图
-- [第 4 章 · 产品设计](/04-product-design/README) — 信息架构、原型、交互设计、Figma 实操
-- [第 5 章 · PRD 需求文档](/05-prd/README) — 写一份专业的产品需求文档
+- [第 3 章 · 用户研究与需求分析](/03-user-research/) — 用户画像、调研、需求优先级、旅程地图
+- [第 4 章 · 产品设计](/04-product-design/) — 信息架构、原型、交互设计、Figma 实操
+- [第 5 章 · PRD 需求文档](/05-prd/) — 写一份专业的产品需求文档
 
 ### 阶段三：执行与战略
 
-- [第 6 章 · 项目管理与协作](/06-project-management/README) — 敏捷 Scrum、工具链、跨团队沟通
-- [第 7 章 · 数据驱动](/07-data-driven/README) — 指标体系、A/B 测试、数据工具
-- [第 8 章 · 产品战略](/08-product-strategy/README) — 竞品分析、商业模式、生命周期
+- [第 6 章 · 项目管理与协作](/06-project-management/) — 敏捷 Scrum、工具链、跨团队沟通
+- [第 7 章 · 数据驱动](/07-data-driven/) — 指标体系、A/B 测试、数据工具
+- [第 8 章 · 产品战略](/08-product-strategy/) — 竞品分析、商业模式、生命周期
 
 ### 阶段四：综合实战
 
-- [第 9 章 · 实战演练](/09-real-world-practice/README) — 案例拆解、从 0 到 1 模拟项目、面试准备
-- [第 10 章 · 学习资源汇总](/10-resources/README) — 书单、课程、社区
+- [第 9 章 · 实战演练](/09-real-world-practice/) — 案例拆解、从 0 到 1 模拟项目、面试准备
+- [第 10 章 · 学习资源汇总](/10-resources/) — 书单、课程、社区

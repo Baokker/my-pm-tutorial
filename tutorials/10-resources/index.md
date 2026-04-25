@@ -112,4 +112,4 @@
 
 | 上一章 | 目录 | 下一节 |
 |--------|------|--------|
-| [第九章：实战演练](../09-real-world-practice/README.md) | [返回目录](../README.md) | [推荐书单 >>](./01-books.md) |
+| [第九章：实战演练](../09-real-world-practice/) | [返回目录](../README.md) | [推荐书单 >>](./01-books.md) |
